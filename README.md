@@ -22,7 +22,7 @@ pour visualisation) et calcul de leur salaire à la fin du mois
 ## Objectifs :
 L'objectif principal de ce projet est de fournir une expérience d'apprentissage pratique, interactive et moderne pour les élèves d'auto-école. L'application vise à simplifier le processus d'inscription, à offrir un accès facile aux ressources d'apprentissage, à faciliter la communication entre les élèves et les instructeurs, et à les préparer efficacement aux examens pratiques et théoriques. L'objectif ultime est de permettre aux élèves de devenir des conducteurs compétents et responsables.
 
-#quelques photos de l'exécution 
+# quelques photos de l'exécution 
 ![](menu.png)
 ![](condidats.png)
 ![](details.png)
